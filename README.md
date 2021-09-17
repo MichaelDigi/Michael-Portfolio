@@ -10,11 +10,8 @@
 
 [+]when resizing the page it adapts with a responsive layout to various devices
 
-<<<<<<< HEAD
 ![Screenshot](./assets/screenshot.png)
-=======
 !Bonus! - Added hamburger bar at certain resolution
->>>>>>> a77878a39f334e4fd5470accf5f06b896f22f3a0
 
 Link to deployed site
 https://michaeldigi.github.io/Michael-Portfolio/
